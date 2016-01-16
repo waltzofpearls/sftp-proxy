@@ -28,3 +28,4 @@ _testmain.go
 *.yml
 .DS_Store
 c.out
+tags
